@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adee_juanda
+- Hi, I’m @adee_juanda
 
 <!---
 adejuanda/adejuanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
