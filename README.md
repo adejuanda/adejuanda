@@ -37,7 +37,6 @@ Tidak ada yang tidak bisa dipelajari..
 | :--- | :--- | :--- |
 | **Master's Degree (S-2)** | Sultan Ageng Tirtayasa University (UNTIRTA) | Graduated |
 | **Bachelor's Degree (S-1)** | Mathla'ul Anwar University (UNMA) Banten (2014 &ndash; 2018) | Graduated |
-| **Senior High School** | SMA Mathla’ul Anwar Menes (2011 &ndash; 2014) | Graduated |
 
 ---
 
