@@ -41,34 +41,6 @@ Tidak ada yang tidak bisa dipelajari..
 
 ---
 
-### Professional Experience
-
-| Period | Position | Institution / Company |
-| :--- | :--- | :--- |
-| **2021 &ndash; Present** | Teacher | SMAN 10 Pandeglang |
-| **2019 &ndash; 2021** | Quality Control (QC) Staff | PT. Kenda Rubber Indonesia |
-| **2016 &ndash; 2019** | Teacher | SMA Mathla’ul Anwar Menes |
-
----
-
-### Community Leadership
-
-- **Former Leader** &mdash; Ketimbang Ngemis Pandeglang Community
-
----
-
-### Skills & Languages
-
-- **Technical & Creative Skills:**
-  - Information Technology (IT)
-  - Writing & Literacy
-  - Photography & Documentation
-- **Language Proficiency:**
-  - Indonesian (Native)
-  - English (Working Proficiency / Communicative)
-
----
-
 ### Get in Touch
 
 <p align="left">
