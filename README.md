@@ -7,7 +7,7 @@
 
   <p align="center">
     <b>Teacher &bull; Literacy Advocate &bull; IT Practitioner</b><br>
-    Pandeglang, Banten, Indonesia
+    Pandeglang, Indonesia
   </p>
 
   <!-- Official SVG Badges -->
